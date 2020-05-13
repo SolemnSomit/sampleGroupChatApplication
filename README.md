@@ -14,5 +14,7 @@ network.
 
 
 Two  users allowed
-user1@gmail.com \n
+
+user1@gmail.com
+
 user2@gmail.com
