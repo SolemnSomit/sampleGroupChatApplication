@@ -1,4 +1,5 @@
 # sampleGroupChatApplication
+Authetication implemented using Firebase Authentication
 A simple Realtime Chat Application
 Local Database using Room 
 
@@ -14,4 +15,4 @@ network.
 
 Two  users allowed
 user1@gmail.com
-sier
+user2@gmail.com
