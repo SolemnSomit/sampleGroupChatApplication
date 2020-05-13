@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/chatMessageText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/chat_message_text_size"
+        android:textColor="@color/colorMessage"
+        android:layout_marginTop="@dimen/big_top_margin"
+        android:layout_marginStart="@dimen/small_left_margin"
+        tools:text = "My First Message"/>
+
+    <TextView
+        android:id="@+id/chatMessageUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/chat_message_user_name_size"
+        android:layout_marginTop="@dimen/small_top_margin"
+        android:layout_marginStart="@dimen/small_left_margin"
+        tools:text="User 1"
+        />
+</LinearLayout>

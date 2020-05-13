@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">sampleGroupChatApplication</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="login">Login</string>
+
+    <!-- Intent extras -->
+    <string name="intent_chatroom_name">intent_chatroom_name</string>
+    <string name="intent_chatroom_id">intent_chatroom_id</string>
 </resources>

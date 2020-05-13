@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491145058474",
+    "firebase_url": "https://samplechat-b6400.firebaseio.com",
+    "project_id": "samplechat-b6400",
+    "storage_bucket": "samplechat-b6400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491145058474:android:482816dc23d77394cb18d3",
+        "android_client_info": {
+          "package_name": "com.example.samplegroupchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491145058474-ln1qi7mg5kp1sn40ok9mpt85t5h8nm1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-nT3en8Q0crnvmIJzWmeTv-uwuuYoDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491145058474-ln1qi7mg5kp1sn40ok9mpt85t5h8nm1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
