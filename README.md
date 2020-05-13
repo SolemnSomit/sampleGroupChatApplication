@@ -11,6 +11,7 @@ Chat Room Activity developed using a mvvm architecture and using android Arch co
 A Data repositor used for true data, at the moment it uses the sqllite data on device, but can be extended to pick data from
 network. 
 
+The chat Activity doesn't follow a mvvm architecture.
 
 
 Two  users allowed
